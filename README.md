@@ -21,7 +21,7 @@ npm install --save-dev gulp-inject
 cd html-generator
 gulp
 ```
-<p><img src='http://www.rascojet.com/github/html-generator/website/assets/images/run-gulp.png' alt='run gulp'></p>
+<p><img src='http://www.rascojet.com/github/html-generator/assets/images/run-gulp.png' alt='run gulp'></p>
 
 # Notes
 <p>
