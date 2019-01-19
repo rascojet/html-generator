@@ -35,6 +35,10 @@ gulp
 npm install --save-dev gulp-uglify
 ```
 
+# Demo
+
+http://www.rascojet.com/github/html-generator
+
 # Credits
 <ul>
 	<li>
@@ -53,10 +57,6 @@ npm install --save-dev gulp-uglify
 		Gulp Inject - <a href="https://github.com/klei/gulp-inject">https://github.com/klei/gulp-inject</a>
 	</li>
 </ul>
-
-# Demo
-
-http://www.rascojet.com/github/html-generator
 
 ## License
 
