@@ -1,6 +1,6 @@
 # Requirements
 <p>
-	HTML Generator requires node.js and npm on the local environment to run.
+	HTML Generator requires node.js and gulp on the local environment to run.
 </>
 
 # Quick Overview
@@ -9,16 +9,19 @@
 		Download or clone this repository to your development environment.
 	</li>
 	<li>
-		Use npm to install Gulp Inject.
+		Open command line and change directory to the project folder [cd html-generator].
 	</li>
 	<li>
-		Open command line in the root folder and run Gulp.
+		Run npm install to install the project dependencies [npm install].
+	</li>
+	<li>
+		Run Gulp [gulp].
 	</li>
 </ul>
 
 ```sh
-npm install --save-dev gulp-inject
 cd html-generator
+npm install
 gulp
 ```
 <p><img src='http://www.rascojet.com/github/html-generator/assets/images/run-gulp.png' alt='run gulp'></p>
