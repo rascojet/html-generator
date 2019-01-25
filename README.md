@@ -26,15 +26,6 @@ gulp
 ```
 <p><img src='http://www.rascojet.com/github/html-generator/assets/images/run-gulp.png' alt='run gulp'></p>
 
-# Notes
-<p>
-	If a dependency is missing in your development environment use npm to install it. For example, to install gulp-uglify using npm:
-</p>
-
-```sh
-npm install --save-dev gulp-uglify
-```
-
 # Demo
 
 http://www.rascojet.com/github/html-generator
