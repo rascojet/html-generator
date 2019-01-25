@@ -1,0 +1,35 @@
+{
+  "name": "html-generator",
+  "version": "1.0.0",
+  "description": "HTML Template Generator",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rascojet/html-generator.git"
+  },
+  "author": "Rasco Adeniyi",
+  "license": "MIT",
+  "keywords": [
+    "HTML",
+    "Template",
+    "Generator"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-inject": "^5.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-rename": "^1.4.0",
+    "imagemin-pngquant": "^7.0.0"
+  }
+}
