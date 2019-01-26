@@ -1,7 +1,7 @@
 # Requirements
 <p>
 	HTML Generator requires node.js on the local environment to run.
-</>
+</p>
 
 # Quick Overview
 <ul>
