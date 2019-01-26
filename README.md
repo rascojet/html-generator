@@ -1,6 +1,6 @@
 # Requirements
 <p>
-	HTML Generator requires node.js and gulp on the local environment to run.
+	HTML Generator requires node.js on the local environment to run.
 </>
 
 # Quick Overview
